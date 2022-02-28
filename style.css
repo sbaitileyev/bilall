@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #0969A2;
+    background-color: #BDF300;
+}
+
+li {
+    color: #2618B1;
+    font-size: 20px;
+}
+
+td {
+    border: 5px solid #0969A2;
+    color: rgb(76, 0, 255);
+    font-size: 20px;
+}
+
+header p {
+    font-size: 40px;
+    color: #0969A2;
+    background-color: #BDF300;
+}
+
+footer p {
+    font-size: 25px;
+    color: darkred;
+    background-color: darksalmon;
+}
